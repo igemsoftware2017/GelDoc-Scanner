@@ -1,3 +1,6 @@
+#Copyright 2017 Himanshu Patange
+#This software is released under GNU public licence
+
 import cv2
 from matplotlib import pyplot as plt
 import os
