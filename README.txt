@@ -14,6 +14,8 @@ Prerequisits:
 	- Numpy
 		https://pypi.python.org/pypi/numpy or install via pip
 
+
+The file is to be opened in command prompt. It will work in windows and linux both.
 Format:
 	
 	script_name.py img_name mode threshold saveorno
