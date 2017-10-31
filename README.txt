@@ -1,5 +1,6 @@
 #Copyright 2017 Himanshu Patange
 #This software is released under GNU public licence
+#Team IISER-Mohali-INDIA
 
 The software is submitted in the igem compitition of 2017 under the software tools category by the team IISER-Mohali-INDIA. 
 
